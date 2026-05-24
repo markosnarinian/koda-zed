@@ -2,9 +2,9 @@
 
 A port of [koda.nvim](https://github.com/oskarnurm/koda.nvim) for [Zed](https://zed.dev), generated with [nvim2zed](https://github.com/markosnarinian/nvim2zed).
 
-## Preview
+## Screenshots
 
-![Koda Dark](images/preview-dark.png)
+Screenshots are coming soon...
 
 ## Installation
 
