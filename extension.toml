@@ -1,0 +1,8 @@
+id = "koda-theme"
+name = "Koda Theme for Zed"
+version = "0.0.1"
+schema_version = 1
+authors = ["Markos Narinian <manarinian@gmail.com>"]
+description = "Koda Theme for Zed ported from oskarnurm/koda.nvim"
+repository = "https://github.com/markosnarinian/koda-zed"
+
